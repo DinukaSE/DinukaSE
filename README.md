@@ -35,7 +35,6 @@
 
 </p>
 <br>
-<br>
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
@@ -43,3 +42,5 @@
 <a href="https://linkedin.com/in/dinuka-dilshan-81502421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinukaSE" height="30" width="50" /></a> &#160
 <a href="https://instagram.com/dinuka_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DinukaFX" height="30" width="40" /></a>
 </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dinukase"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dinukase" /></a></p><br><br>

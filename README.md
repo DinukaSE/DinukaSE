@@ -40,6 +40,6 @@
 <br>
 <p align="center">
 <a href="https://twitter.com/DinukaFX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DinukaFX" height="30" width="40" /></a> &#160
-<a href="https://linkedin.com/in/dinukase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinukaSE" height="30" width="50" /></a> &#160
-<a href="https://instagram.com/DinukaFX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DinukaFX" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinuka-dilshan-81502421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinukaSE" height="30" width="50" /></a> &#160
+<a href="https://instagram.com/dinuka_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DinukaFX" height="30" width="40" /></a>
 </p>

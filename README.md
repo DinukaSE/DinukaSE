@@ -20,19 +20,16 @@
 <br>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &#160 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> &#160<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&#160 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &#160 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &#160<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &#160 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <br>
-
-
-</br>
 </div>
 <br />
-<p align="center"><img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
 <br>
 <br>
-<img width="51%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
+<img width="50%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DinukaSE&theme=gotham"/>
-<img width="47%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<p align="center"><img  width="50%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DinukaSE&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
 <br>

@@ -25,9 +25,10 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
-
-<img width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
+<p align="center"><img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<br>
+<br>
+<img width="51%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
 </p>
 
 <p align="center"><img  width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DinukaSE&theme=gotham"/>

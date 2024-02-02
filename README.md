@@ -23,8 +23,7 @@
 </div>
 <br />
 <p align="center"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
-<br>
-<br>
+
 <img width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
 </p>
 

@@ -22,14 +22,14 @@
 <br>
 </div>
 <br />
-<p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSE&theme=gotham&show_icons=true" alt="shamimsikder"/>
 <br>
 <br>
-<img width="70%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
+<img width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DinukaSE&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="70%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DinukaSE&theme=gotham"/>
-<img width="40%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<p align="center"><img  width="47%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DinukaSE&theme=gotham"/>
+<img width="47%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
 <br>

@@ -4,11 +4,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dinuka;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dinuka;Thanks+For+Visiting+My+Page;I+am+a+Undergratuate+Student;"></a>
 </p>
 
 ---
-- 🔭 I’m currently working on **To Do List (Python)**
+- 🔭 I’m currently working on **codsoft**
 
 - 🌱 I’m currently learning **Python , Django , Html , css , javascript , vue.js , MySql**
 
